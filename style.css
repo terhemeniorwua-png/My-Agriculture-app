@@ -1,0 +1,340 @@
+@media screen and (min-width:300px) {
+
+*{
+    margin:0;
+    padding:0;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: url(/images/WhatsApp\ Image\ 2026-02-25\ at\ 1.36.50\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: 250%;
+    background-position: top;
+    
+}
+
+.pg1{
+    color:white;
+   padding-top:15em;
+ 
+   text-align:center;
+}
+.pg1 .hero{
+    font-size:2em;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:10em;
+}
+
+.hero img{
+    position:relative;
+    left:2em;
+    bottom:1.5em;
+}
+
+
+.hero span{
+    color:rgb(255, 255, 0);
+}
+.pg2{
+    text-align:center;
+    padding-top:5%;
+    color:white;
+}
+.pg2 .badge img
+.hero img{
+    width:3.5em;
+    position:relative;
+    left:2em;
+    bottom:0.5em;
+}
+a{
+    text-decoration: none;
+    color:white;
+    list-style-type: none;
+}
+
+
+.pg1 .badge img{
+    width:70%;
+    padding-top:1em;
+    padding-bottom:25%;
+}
+.pg2{
+    text-align:center;
+    padding-top:10em;
+    color:white;
+}
+.pg2 .badge img{
+    width:12em;
+    padding-bottom: 3em;;
+}
+.pg2 p{
+    padding-top:1em;
+line-height: 1.2em;
+font-size: 1.3em;
+/* padding: 0px 0.5em; */
+}
+
+
+.buttons{
+    display:flex;
+    justify-content: center;
+    gap:4em;
+    text-align:center;
+    
+}
+
+.buttons .green, .buttons .yellow{
+    margin-top:8em;
+   width:9em;
+   height:3em;
+    text-align:center;
+   border:none;
+ border-radius: 2em;
+}
+
+.buttons .yellow{
+ background-color: yellow;
+ border:none;
+ border-radius: 10em;
+ font-size:0.8.2em;
+ padding-right:3em;
+}
+
+.buttons .green{
+    color:white;
+    background-color: rgba(44, 252, 44, 0.66);
+}
+
+.pg2 .arrow img{
+    position:relative;
+    top:33em;
+    left:7.5em;
+}
+/* 
+.hr_line{
+    width:10em;px;
+    color:white;
+} */
+
+hr{
+    margin-top:32%;
+    width:10em;
+height:0.3em;
+background-color: white;
+margin-left:30%;
+position:fixed;
+}
+
+.pg3{
+    text-align:center;
+    padding-top:5em;
+}
+
+
+.pg3 .badge img{
+    width:10%;
+    padding-bottom: 2em;
+}
+
+.welcome{
+color:yellow;
+font-size:3em;
+padding-bottom: 0.8em;
+}
+
+.languages{
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.profile img{
+padding-bottom:1em;
+}
+
+.dealer{
+width:7em;
+border:none;
+
+}
+
+.title{
+    display:flex;
+    justify-content: space-evenly;
+padding-bottom:5em;
+}
+
+.btn{
+    width:5em;
+    height:2em;
+    background-color: #FFD29A;
+    text-align: center;
+    font-size:1.2em;
+         padding:0em 1.5em;
+        padding-top:1em;
+   border-radius: 2em;
+}
+
+p{
+    color:white;
+    font-size:1.2em;
+    padding-bottom:1em;
+
+}
+
+.gold{
+padding:1.5em 2.5em;
+letter-spacing:0.1em;
+border-radius: 1.2em;
+background-color:goldenrod;
+border:none;
+}
+
+#hr{
+    position:relative;
+    bottom:9em;
+}
+
+.pg4{
+    text-align: center;
+    padding-top:5em;
+}
+
+.pg4 .badge img,
+.pg5 .badge img{
+width:12em;
+padding-bottom:2em;
+margin-left:25%;
+
+}
+
+
+.pg4 p{
+    padding-bottom:1.5em;
+}
+
+.form input{
+    font-size: 1.5em;
+     width:5em;
+     border-radius:1.8em;
+     margin-bottom:5em;
+    padding:1em 9em 1em 1em;
+   text-align:left;
+}
+
+.form img{
+position:relative;
+right:4.5em;
+}
+
+.pg4 button, .pg5 button{
+  
+padding:1.2em 2em;
+  padding-right:5em;
+border-radius: 2em;
+background-color: yellow;
+font-size:1.2em;
+}
+
+.pg4 img{
+position:relative;
+right:4em;
+top:0.3em;
+}
+
+.pg5{
+    margin-top:5em;
+    text-align:center;
+}
+.fom input{
+   font-size: 1.5em;
+     width:5em;
+     border-radius:1.8em;
+     margin-bottom:2em;
+    padding:1em 9em 1em 1em;
+   text-align:left;
+}
+
+.fom img{
+position:absolute;
+left:75%;
+top:25%;
+
+}
+
+.pg5 img{
+    position:relative;
+    right:4em;
+    top:0.2em;
+}
+
+.pg7{
+   padding-top:5em;
+   text-align:center;
+}
+ .flex {
+    display:flex;
+    justify-content: space-around;
+ }
+
+
+.pg7 .flex img{
+    width:25%;
+}
+
+
+.pg7 .flex h1{
+    font-size:280%;
+    align-self: center;
+    color:yellow;
+    padding:2%
+}
+
+.pg7 .img{
+width:60%;
+margin-top:20%;
+border:5px solid black;
+border-radius:10em;
+}
+
+.pg7 button{
+         color:black;
+    margin-top:2em;
+    width:6em;
+    font-size:2em;
+    padding:0.2em;
+    border:5px solid black;
+    background-color:lightpink;
+
+}
+
+ .pg7 .markett{
+    width:65%;
+    font-size:large;
+    height:3em;
+    background-color: yellow;
+    border:none;
+    border-radius: 2em;
+    margin-top:20%;
+    position:relative;
+   
+ }
+
+ .markett img{
+    position:absolute;
+left:80%;
+}
+
+
+
+
+}
+
