@@ -343,7 +343,7 @@ background-color: #FEFFFD
 
 .overall .success{
     margin-top:2em;
-    margin-bottom: 22%;
+    margin-bottom: 28%;
     width:11.5em;
     font-weight: 10em;
     font-size:x-large;
@@ -398,7 +398,7 @@ width:10em;
 
 .postionedimg{
     position:absolute;
-    bottom: 45%;
+    bottom: 35%;
     left:6%;
     align-self:center;
     text-align: center;
