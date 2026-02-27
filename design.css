@@ -308,7 +308,7 @@ hr{
     justify-content: center;
     flex-direction:row;
     gap:5em;
-    margin-top:5em;
+    margin-top:1.5em;
     justify-content:center;
     align-items: center;
 /* padding-bottom:5em; */
@@ -337,12 +337,12 @@ background-color: #FEFFFD
     margin-left: auto;
     margin-right: auto;
     width:15em;
-    padding-top:10em;
+    padding-top:3em;
     
 }
 
 .overall .success{
-    margin-top:5em;
+    margin-top:2em;
     margin-bottom: 22%;
     width:11.5em;
     font-weight: 10em;
@@ -398,7 +398,7 @@ width:10em;
 
 .postionedimg{
     position:absolute;
-    bottom: 56%;
+    bottom: 45%;
     left:6%;
     align-self:center;
     text-align: center;
@@ -450,7 +450,7 @@ align-items: center;
 
 
 .cropname{
-    margin-top:20%;
+    margin-top:10%;
     margin-left: 5%;
     margin-right:  5%;
     background-color:#4BAF47 ;
@@ -475,7 +475,7 @@ font-weight: bold;
 font-size: 1.2em;
 padding:1em 4em;
 background-color: yellow;
-    margin-top:20%;
+    margin-top:8%;
 
     margin-left:20%;
 }
