@@ -110,7 +110,7 @@ font-size: 1em;
 
 .pg2 .arrow img{
     position:relative;
-    top:30em;
+    top:29em;
     left:7.5em;
 }
 /* 
@@ -255,6 +255,9 @@ top:0.3em;
     text-align:center;
 }
 .fom input{
+    margin-left:20%;
+    margin-right:20%;
+    align-self: center;
    font-size: 1.2em;
      width:4em;
      border-radius:1.8em;
