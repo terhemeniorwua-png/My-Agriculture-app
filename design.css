@@ -272,7 +272,7 @@ hr{
         background-color: white;
     padding:1em;
     border-radius: 0.8em;
-    width:20em;
+    width:15em;
     margin-left:2em;
 
 }
@@ -286,7 +286,7 @@ hr{
 .entire button{
    color:white;
    background-color: orange;
-   width:10em;
+   width:12em;
    margin-left:1.5em;
    font-size: 1.5em;
    margin-bottom:10%;
@@ -294,6 +294,7 @@ hr{
 
 #hf{
     background-color: black;
+   
 }
 
 .overall{
@@ -409,7 +410,7 @@ width:10em;
     justify-content: space-around;
     color:white;
     text-align:left;
-    padding-bottom:5em;
+    padding-bottom:1em;
 }
 
 .headi{
