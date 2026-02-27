@@ -1,4 +1,4 @@
-@media screen and (min-width:350px) {
+@media screen and (min-width:300px) {
 
 *{
     margin:0;
@@ -17,7 +17,7 @@ body{
 
 .pg1{
     color:white;
-   padding-top:15em;
+   padding-top:4em;
  
    text-align:center;
 }
@@ -39,7 +39,7 @@ body{
 }
 .pg2{
     text-align:center;
-    padding-top:5%;
+    /* padding-top:5%; */
     color:white;
 }
 .pg2 .badge img
@@ -59,21 +59,21 @@ a{
 .pg1 .badge img{
     width:70%;
     padding-top:1em;
-    padding-bottom:25%;
+    padding-bottom:30%;
 }
 .pg2{
     text-align:center;
-    padding-top:10em;
+    padding-top:2em;
     color:white;
 }
 .pg2 .badge img{
-    width:12em;
+    width:10em;
     padding-bottom: 3em;;
 }
 .pg2 p{
     padding-top:1em;
 line-height: 1.2em;
-font-size: 1.3em;
+font-size: 1em;
 /* padding: 0px 0.5em; */
 }
 
@@ -110,7 +110,7 @@ font-size: 1.3em;
 
 .pg2 .arrow img{
     position:relative;
-    top:33em;
+    top:29em;
     left:7.5em;
 }
 /* 
@@ -130,7 +130,7 @@ position:fixed;
 
 .pg3{
     text-align:center;
-    padding-top:5em;
+    padding-top:1em;
 }
 
 
@@ -205,7 +205,7 @@ border:none;
 
 .pg4{
     text-align: center;
-    padding-top:5em;
+    padding-top:2em;
 }
 
 .pg4 .badge img,
@@ -218,15 +218,15 @@ margin-left:25%;
 
 
 .pg4 p{
-    padding-bottom:1.5em;
+    padding-bottom:1em;
 }
 
 .form input{
     font-size: 1.5em;
-     width:5em;
+     width:3.5em;
      border-radius:1.8em;
      margin-bottom:5em;
-    padding:1em 9em 1em 1em;
+    padding:1em 7em 1em 1em;
    text-align:left;
 }
 
@@ -241,7 +241,7 @@ padding:1.2em 2em;
   padding-right:5em;
 border-radius: 2em;
 background-color: yellow;
-font-size:1.2em;
+font-size:1em;
 }
 
 .pg4 img{
@@ -251,15 +251,15 @@ top:0.3em;
 }
 
 .pg5{
-    margin-top:5em;
+    margin-top:2em;
     text-align:center;
 }
 .fom input{
-   font-size: 1.5em;
-     width:5em;
+   font-size: 1.2em;
+     width:4em;
      border-radius:1.8em;
      margin-bottom:2em;
-    padding:1em 9em 1em 1em;
+    padding:0.5em 9em 0.5em 1em;
    text-align:left;
 }
 
@@ -277,7 +277,7 @@ top:25%;
 }
 
 .pg7{
-   padding-top:5em;
+   padding-top:2em;
    text-align:center;
 }
  .flex {
@@ -307,7 +307,7 @@ border-radius:10em;
 
 .pg7 button{
          color:black;
-    margin-top:2em;
+    margin-top:0.8em;
     width:6em;
     font-size:2em;
     padding:0.2em;
@@ -323,7 +323,7 @@ border-radius:10em;
     background-color: yellow;
     border:none;
     border-radius: 2em;
-    margin-top:20%;
+    margin-top:15%;
     position:relative;
    
  }
